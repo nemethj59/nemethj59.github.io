@@ -1,0 +1,10 @@
+h1, #linkek {
+    width:max-content;
+    margin: 0 auto;
+}
+
+#elso, #masodik {
+    width: 350px;
+    height: 300px;
+    margin: 50px;
+}
